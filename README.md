@@ -4,7 +4,7 @@ Um projeto de controle de mão robótica que utiliza detecção de mão por meio
 Para o projeto do hardware da mão robótica, usei um modelo em 3D e servos SG90, e um arduino UNO.
 
 ## ⚙️ Funcionamento: 
-([(0.jpg)https://youtube.com/shorts/z33VZ7MibCs?feature=share](https://img.youtube.com/vi/z33VZ7MibCs/0.jpg
+((https://img.youtube.com/vi/z33VZ7MibCs/0.jpg
 ))
 
 
