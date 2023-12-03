@@ -3,11 +3,6 @@
 Um projeto de controle de mão robótica que utiliza detecção de mão por meio do OpenCV, MediaPipe e Python, permitindo o controle de servos em uma mão robótica conectada a um Arduino. Com este projeto, você pode fazer com que uma mão robótica se mova de acordo com os movimentos da sua própria mão!
 Para o projeto do hardware da mão robótica, usei um modelo em 3D e servos SG90, e um arduino UNO.
 
-## 📹 Funcionamento
-[![Assista ao vídeo de demonstração](https://img.youtube.com/vi/z33VZ7MibCs/0.jpg)](https://youtube.com/shorts/z33VZ7MibCs?feature=share)
-
-
-
 ## ℹ️ Sobre o Projeto
 
 Este projeto combina visão computacional, detecção de mão e controle de hardware para criar uma interface interativa de controle de mão robótica. A detecção da mão é realizada usando a biblioteca MediaPipe, enquanto o controle dos servos na mão robótica é feito por meio de uma conexão serial com um Arduino. Isso permite que você controle os movimentos da mão robótica com gestos da sua própria mão.
